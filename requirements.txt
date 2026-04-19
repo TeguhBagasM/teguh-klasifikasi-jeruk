@@ -1,5 +1,5 @@
 pandas
-metplotlib
+matplotlib
 seaborn
 scikit-learn
 joblib
